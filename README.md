@@ -1,8 +1,7 @@
-The AutoQuad Project
-====================
+####The AutoQuad Project####
 
-##An autonomous obstacle avoidance system for a custom built quadcopter using Arduino and sonar. 
+An autonomous quadcopter obstacle avoidance system using Arduino and sonar. 
 
-2015 Goshen College Electronics Class
+2015 Goshen College Electronics Project
 
 Isaiah Breckbill, Vince Kurtz, and Peter Wise
