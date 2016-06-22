@@ -1,4 +1,11 @@
-/* The final iteration of the code. It does three main things:
+/*
+ *   autoquad.ino
+ *
+ * Code for the AutoQuad project, an autonomous obstacle avoidance system for
+ * a custom built quadcopter using arduino and sonar.
+ *
+ *
+ * This code does three main things:
  *       - Passes input directly from the reciever to the controller ('manual mode')
  *       - Gets readings from rangefinders and uses them to help the craft avoid
  *         obstacles ('autonomous mode')
